@@ -62,3 +62,18 @@ Since you are one of the star analysts at the firm, this project has been given 
 ❖ Time Since Last Promotion: Employees who haven't been promoted in 12-15 years have the highest attrition rate (606 employees), suggesting a potential link between career progression and employee retention.
 
 ❖ Limited Data on Last Promotion: The data on "Last Promotion" is limited, with only a small number of employees having been promoted in the last 6-11 years or 0-5 years. This limits the ability to draw strong conclusions about the impact of recent promotions on attrition.
+
+# Managerial Factors
+
+❖ Overall Attrition is Significant: The company faces a notable attrition rate of 16.12%, indicating a need to address underlying issues.
+
+❖ Salary Hike and Attrition: There is a slight increase in attrition as the percentage salary hike increases, suggesting that salary may play a role in employee retention. However, the relationship is not very strong.
+
+❖ Training Times and Attrition: Attrition is highest for employees with 1-2 training times last year, indicating a potential link between training opportunities and employee retention.
+
+![image](https://github.com/user-attachments/assets/8cf23ff6-9e3d-40a8-aed3-f8997724f761)
+
+
+❖ Years with Current Manager and Attrition: Attrition is highest for employees with 10-14 years with their current manager, suggesting potential issues with long-term manager relationships or lack of career progression opportunities.
+
+❖ Limited Data on Training Times: The data on training times is limited, with only a small number of employees having 13 or more training times last year. This limits the ability to draw strong conclusions about the impact of extensive training on attrition.
