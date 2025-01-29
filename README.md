@@ -78,7 +78,7 @@ Since you are one of the star analysts at the firm, this project has been given 
 
 ❖ Limited Data on Training Times: The data on training times is limited, with only a small number of employees having 13 or more training times last year. This limits the ability to draw strong conclusions about the impact of extensive training on attrition.
 
-# Project Conlusion
+# Project Conclusion
 
 ❖ Attrition Rate: 16.12% of employees are leaving the company.
 ❖ Departmental Impact: Research & Development and Sales have higher attrition.
